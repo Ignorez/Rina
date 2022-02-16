@@ -1,3 +1,7 @@
 # Rina
+Rina clientin yeniden yapılmış ve hwidleri otomatik bypasslayan sistemiyle beraber açık kaynak koduyla paylaşılmış halidir
 
-Rina roleplay için clientsiz giriş için bir program. @IdcSabo tarafından geliştirilmiştir. Şu an da çalışmakta. En son satışta olduğu için HWID fonksiyonlarını silmedim. Bir kaç kod düzenleyerek erişim sağlayabilirsiniz.
+Rina-Utility bypassı için https://github.com/Akaion/Jupiter bu projedeki memory control fonksiyonları kullanılmıştır kullanımı çok basit ve tüm fonksiyonların açıklamasıyla beraber
+test projesi oluşturup anlatmıştır.
+
+En son satışta olduğundan dolayı bazı hwid kontrolleri kalmış olabilir kodlardan bakıp kaldırırsınız.
